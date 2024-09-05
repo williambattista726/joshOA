@@ -1,7 +1,7 @@
 {
-  "name": "fancy-example",
+  "name": "joshOA",
   "version": "1.0.0",
-  "description": "An advanced example using Chemical components.",
+  "description": "a web proxy using chemicaljs",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/chemicaljs/fancy-example.git"
   },
-  "author": "Nebelung",
+  "author": "williambattista726",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/chemicaljs/fancy-example/issues"
