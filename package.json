@@ -20,5 +20,8 @@
   "dependencies": {
     "chemicaljs": "^1.7.3",
     "express": "^4.19.2"
+  },
+  "engines": {
+    "node": "20.16.0"
   }
 }
