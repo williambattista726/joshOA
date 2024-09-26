@@ -1,0 +1,11 @@
+[build]
+  publish = "public"  # Path to your build folder (in this case, 'public')
+  command = "npm install && npm start"
+
+[dev]
+  command = "npm start"
+  port = 3000  # Adjust this if your app runs on a different port
+  targetPort = 8080  # Port where the app runs
+
+[functions]
+  node_bundler = "esbuild"  # Optional if using Netlify Functions
